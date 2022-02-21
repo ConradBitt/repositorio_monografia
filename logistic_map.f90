@@ -6,6 +6,9 @@ PROGRAM Escape_tent
 !  Physica A 367 (2006) 158-172
 !  
 !  Programmer Danilo Szezech - 22/08/2016
+!
+!  Adaptation to run logistic map, Conrado Bittencourt - 17/12/2021
+!
 !---------------------------------------------------------------------
 IMPLICIT NONE
 ! Declare local variables
