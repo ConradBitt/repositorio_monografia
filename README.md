@@ -1,6 +1,10 @@
 # Repositorio Monografia
 Repositório para armazenar os códigos, simulações e rotinas utilizadas no desenvolvimento do meu trabalho de conclusão de curso, monografia.
 
+## 1. Notebook: [Rede de mapas logísticos](https://github.com/ConradBitt/repositorio_monografia/blob/main/Mapa_logistico.ipynb)
+
+## 2. Notebook: [Rede de mapas de mapas lineares por partes](https://github.com/ConradBitt/repositorio_monografia/blob/main/Mapa_linear_por_partes.ipynb)
+
 ## MIT License
 
 Copyright (c) 2022 Conrado F. Bittencourt
